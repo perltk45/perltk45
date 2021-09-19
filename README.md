@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @perltk45
+- 👋 Hi, I’m @perltk45 -- with TrueStaking.com
 - 👀 I’m interested in linux system administration, cyber security, block chain
 - 🌱 I’m currently learning GoLang
 - 💞️ I’m looking to collaborate blockchain node security
