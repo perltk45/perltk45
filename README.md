@@ -2,7 +2,7 @@
 - 👀 I’m interested in linux system administration, cyber security, block chain
 - 🌱 I’m currently learning GoLang
 - 💞️ I’m looking to collaborate blockchain node security
-- 📫 How to reach me ... perltk | Premagine    on Discord
+- 📫 How to reach me ... perltk | TrueStaking    on Discord
 
 <!---
 perltk45/perltk45 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
